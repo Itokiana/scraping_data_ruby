@@ -14,8 +14,8 @@
 ## c. Route des incubateurs 
 - Ta mission va légèrement changer, puisque tu vas devoir trouver toi-même un site qui recense une grande liste d'incubateurs en France, puis tu vas devoir utiliser Nokogiri pour récupérer :
 
-    le nom de l'incubateur
-    le code postal
-    un petit site internet
+    le nom de l'incubateur => done, 
+    le code postal => done, 
+    un petit site internet => done
 
 Cet exercice te demandera d'aller voir quelques annuaires, et de travailler sur celui qui te semble le mieux.. => Done 
